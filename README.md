@@ -14,7 +14,7 @@ Meu principal objetivo é aperfeiçoar minhas habilidades na área de programaç
   
 ## Conquistas 
 
-- Em 2024 fui considerado pela direção do campus IDEAU o melhor aluno do curso de Analise e Desenvolvimento de sistemas daquele ano, onde foi me consagrado um certificado e uma bonificação no curso.
+- Em 2024 fui considerado pela direção do campus IDEAU o melhor aluno do curso de Analise e Desenvolvimento de Sistemas daquele ano, onde foi me consagrado um certificado e uma bonificação no curso.
 
 ## linguagens 
 
